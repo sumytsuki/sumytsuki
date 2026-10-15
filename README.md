@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**sumytsuki/sumytsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td width="48%" valign="middle">
+<h1>hi, i'm sumy ☾</h1>
+<p><strong>Aspiring Python Developer</strong></p>
+<p>MIS Graduate with a background in web development.</p>
+<p>Currently learning Python and exploring backend development.</p>
+<p><code>python</code> · <code>learning</code> · <code>building</code></p>
+</td>
+<td width="52%" valign="middle">
+<img src="assets/banner.png" width="100%" alt="Sumy's coding illustration">
+</td>
+</tr>
+</table>
